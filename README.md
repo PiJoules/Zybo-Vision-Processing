@@ -3,3 +3,5 @@ Using an fpga for vision processing of some sort.
 
 ## Usage
 Clone this repo. Open the project in Vivado (tested on v2014.4). Compile and push the bitstream to a Zybo board with the HDMI port connected to a source and the VGA port connected to a sink.
+
+Do not try to be a hero and change the code. I have no idea how this code works myself.
